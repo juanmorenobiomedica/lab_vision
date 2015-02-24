@@ -1,0 +1,95 @@
+﻿Merge branch 'master' of https://github.com/juanmorenobiomedica/lab_vision
+
+Conflicts:
+	README.md
+	lab2_matlab/readme.md
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch and 'origin/master' have diverged,
+# and have 42 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   README.md
+#	new file:   lab0_intro/.~lock.readme.md#
+#	modified:   lab0_intro/readme.md
+#	new file:   lab2_matlab/Adding noise/Thumbs.db
+#	new file:   lab2_matlab/Adding noise/gaussian.jpg
+#	new file:   lab2_matlab/Adding noise/gaussian.tiff
+#	new file:   lab2_matlab/Adding noise/poisson.jpg
+#	new file:   lab2_matlab/Adding noise/poisson.tiff
+#	new file:   lab2_matlab/Adding noise/salt&pepper.jpg
+#	new file:   lab2_matlab/Adding noise/salt&pepper.tiff
+#	new file:   lab2_matlab/Adding noise/speckle.jpg
+#	new file:   lab2_matlab/Adding noise/speckle.tiff
+#	new file:   lab2_matlab/ESPACIOS DE COLOR/HSV_mosaic.png
+#	new file:   lab2_matlab/ESPACIOS DE COLOR/Thumbs.db
+#	new file:   lab2_matlab/ESPACIOS DE COLOR/YCBCR_mosaic.png
+#	new file:   lab2_matlab/ESPACIOS DE COLOR/rgb_mosaic.png
+#	new file:   lab2_matlab/Edge detection/1prehorz.tiff
+#	new file:   lab2_matlab/Edge detection/1prever.tiff
+#	new file:   lab2_matlab/Edge detection/1sobelhorz.tiff
+#	new file:   lab2_matlab/Edge detection/1sobelvert.tiff
+#	new file:   lab2_matlab/Edge detection/Thumbs.db
+#	new file:   lab2_matlab/Edge detection/prewitt.tiff
+#	new file:   lab2_matlab/Edge detection/prewitthoriz.tiff
+#	new file:   lab2_matlab/Edge detection/prewittvert.tiff
+#	new file:   lab2_matlab/Edge detection/s&paverage2.tiff
+#	new file:   lab2_matlab/Edge detection/sobelhoriz.tiff
+#	new file:   lab2_matlab/Edge detection/sobelvert.tiff
+#	new file:   lab2_matlab/Matlab from shell/cftc.m
+#	new file:   lab2_matlab/Matlab from shell/iniciomatlab.CMD
+#	new file:   lab2_matlab/Median filter/Thumbs.db
+#	new file:   lab2_matlab/Median filter/s&paverage3.tiff
+#	new file:   lab2_matlab/Median filter/s&paverage4.tiff
+#	new file:   lab2_matlab/Median filter/s&paverage5.tiff
+#	new file:   lab2_matlab/Median filter/s&pgauss.tiff
+#	new file:   lab2_matlab/Median filter/s&pgauss1.tiff
+#	new file:   lab2_matlab/Median filter/s&pgauss2.tiff
+#	new file:   lab2_matlab/Median filter/s&pgauss3.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian2.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian3.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian31.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian32.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian33.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian37.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian4.tiff
+#	new file:   lab2_matlab/Median filter/s&pgaussian5.tiff
+#	new file:   lab2_matlab/Median filter/s&plaplace.tiff
+#	new file:   lab2_matlab/Median filter/s&plog.tiff
+#	new file:   lab2_matlab/Median filter/s&plog1.tiff
+#	new file:   lab2_matlab/Median filter/s&pmedaverage.tiff
+#	new file:   lab2_matlab/Median filter/s&pmeddisk.tiff
+#	new file:   lab2_matlab/Median filter/s&pmeddisk1.tiff
+#	new file:   lab2_matlab/Median filter/s&pmeddisk2.tiff
+#	new file:   lab2_matlab/Median filter/s&pmedfilt2.tiff
+#	new file:   lab2_matlab/Median filter/s&pmotion.tiff
+#	new file:   lab2_matlab/Median filter/s&pmotion5.tiff
+#	new file:   lab2_matlab/Median filter/s&pmotion51.tiff
+#	new file:   lab2_matlab/Median filter/s&pprewitt.tiff
+#	new file:   lab2_matlab/Median filter/s&psobel.tiff
+#	new file:   lab2_matlab/Median filter/sharp.tiff
+#	new file:   lab2_matlab/Median filter/sharp37.tiff
+#	new file:   lab2_matlab/RESPUESTAS.doc
+#	new file:   lab2_matlab/RESPUESTAS.odt
+#	new file:   lab2_matlab/Template Matching/Thumbs.db
+#	new file:   lab2_matlab/Template Matching/correlation.png
+#	new file:   lab2_matlab/Template Matching/correlation5.png
+#	new file:   lab2_matlab/Thumbs.db
+#	deleted:    lab2_matlab/readme.md
+#	deleted:    lab2_matlab/vlcsnap-2014-08-20-14h09m50s192.png
+#	new file:   lab2_matlab/writing images/Thumbs.db
+#	new file:   lab2_matlab/writing images/imagen.jpg
+#	new file:   lab2_matlab/writing images/imagen.png
+#
+

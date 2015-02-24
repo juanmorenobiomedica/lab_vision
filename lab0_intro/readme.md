@@ -71,7 +71,7 @@
    ```
 
 
-## Image database
+## Image database#
 
 1. The following command lets us connect to another system and use the terminal as it where there,
    the second command lets us copy files between systems.

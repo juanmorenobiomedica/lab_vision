@@ -2,4 +2,5 @@
 
 This repository will contain guides and scripts required during the lab.
 
-Testing git
+probando smartgit
+
